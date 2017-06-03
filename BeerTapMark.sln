@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BeerTapMark", "BeerTapMark\BeerTapMark.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnableInterrupt-0.9.7", "..\..\..\Arduino\libraries\EnableInterrupt-0.9.7\EnableInterrupt-0.9.7.vcxitems", "{A98E1FD3-7ACD-46F9-8C20-41574347D1B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rfid", "..\..\..\Arduino\libraries\rfid\rfid.vcxitems", "{0EB77345-3617-4ADD-B910-AC8AF315D49D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EEPROM", "..\..\..\..\..\..\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\EEPROM\EEPROM.vcxitems", "{DD5ABB0A-62C6-42C9-B800-39571B0C7F88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPI", "..\..\..\..\..\..\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\SPI\SPI.vcxitems", "{2054FAC2-A366-49D6-9901-DB26AA150BDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
